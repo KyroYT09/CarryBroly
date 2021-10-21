@@ -1,10 +1,10 @@
 if game.PlaceId == 2050207304 then
 Move1 = "Meteor Crash"
-Move2 = "Blaster Meteor"
+Move2 = "Neo Wolf Fang Fist"
 Move3 = "TS Molotov"
 Move4 = "Anger Rush"
-Move5 = "Big Bang Kamehameha"
-Move6 = "Trash???"
+Move5 = "Wolf Fang Fist"
+Move6 = "Sweep Kick"
 
 
 Earthq = false -- determines if you go to earth to queue or queue world
